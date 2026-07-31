@@ -77,12 +77,13 @@ sh ./asterdeck-setup --yes
 설치기는 다음 역할을 자동 선택합니다.
 
 - Windows: 데스크톱 앱과 `asterdeck` CLI
-- GUI가 있는 Ubuntu·Debian: 데스크톱 앱과 CLI
-- GUI가 없는 Ubuntu·Debian: CLI와 로컬 Session Host
+- GUI가 있는 Ubuntu 24.04 x86_64: 데스크톱 앱과 CLI
+- GUI가 없는 Ubuntu 24.04 x86_64: CLI와 로컬 Session Host
 
 서버 역할을 명시하려면 `--headless`, 데스크톱 역할을 명시하려면
-`--desktop`을 추가합니다. Setup Kit 바이너리는 Windows x64와 Linux
-x86_64를 지원합니다.
+`--desktop`을 추가합니다. Setup Kit 바이너리는 Windows x64와 Ubuntu 24.04
+x86_64를 지원하며, 다른 Linux 배포판과 Ubuntu 버전은 현재 지원하지
+않습니다.
 
 ## 4. 확인과 업데이트
 
