@@ -6,8 +6,8 @@ Asterdeck의 공식 공개 배포 저장소입니다. 비공개 제품 소스나
 
 ## 가장 쉬운 설치
 
-1. [최신 Release](https://github.com/southglory/asterdeck-releases/releases/latest)
-   에서 같은 버전의 다음 두 파일을 받습니다.
+1. [Asterdeck Releases](https://github.com/southglory/asterdeck-releases/releases)
+   에서 가장 높은 버전의 다음 두 파일을 받습니다.
 
    ```text
    Asterdeck_VERSION_setup-kit.zip
